@@ -47,4 +47,18 @@ img{
     padding: 20px;
     border-radius: 10px;
 }
+#tribute-info{
+    border: 20px;
+}
+a{
+    color: rgb(15, 17, 16);
+    text-align: center;
+}
+#self{
+    text-align: center;
+    font-size: 24px;
+}
+#tribute-link :hover{
+    color: #00f;
+}
 
